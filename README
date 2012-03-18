@@ -1,0 +1,5 @@
+=== Brakes
+
+Sinatra app just for testing Exceptional.io
+
+Should raise, and post error on GET /
